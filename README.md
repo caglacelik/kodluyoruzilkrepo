@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
-patika.dev
+www.patika.dev 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
